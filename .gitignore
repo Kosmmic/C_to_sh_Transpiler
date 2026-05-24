@@ -1,0 +1,21 @@
+# Pliki tymczasowe i wynikowe translatora
+clean.tmp
+program.sh
+diagnostyka.txt
+
+# Pliki konfiguracyjne edytora micro (tworzone na Chromebooku)
+.micro/
+*~
+*.swp
+
+# Systemowe pliki operacyjne
+.DS_Store
+.Trash/
+
+# Pliki specyficzne dla VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# Pliki logów i tymczasowe VS Code
+.eslintcache
