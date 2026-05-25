@@ -1,3 +1,7 @@
+Język: [English](README.md) | [Po polsku]
+
+---
+
 # Translator kodu źródłowego z języka C do skryptu powłoki (sh)
 
 ## Opis projektu

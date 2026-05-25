@@ -1,3 +1,7 @@
+Language: [English] | [Po polsku](README.pl.md)
+
+---
+
 # Source Code Transpiler from C to Shell Script (POSIX sh)
 
 ## Project Description
